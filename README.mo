@@ -1,4 +1,4 @@
-# NewsLetter Sign Up Page using API and deploy the server with Heroku 
+#NewsLetter Sign Up Page using API and deploy the server with Heroku 
 
 this proejct is about allow somebody who wants to set up our newsletter where we can emial people who are interested in.
 
